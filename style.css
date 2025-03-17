@@ -3,6 +3,8 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 20px;
+    display: flex;
+    aling-items: center;
 }
 
 textarea {
